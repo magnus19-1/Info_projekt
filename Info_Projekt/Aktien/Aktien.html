@@ -3,6 +3,8 @@
 <head>
 <title>Aktien.html</title>
 <style>
+
+ 
  .Money {height: 100vh; width: 100%;
      object-fit: fill;	 
 	 filter: brightness(1)}
@@ -35,11 +37,22 @@
 	 text-shadow: 5px 5px rgba(0,0,0, 0.5)}
 .Blue {color: #00c3ff;}
 
-.description-section { height: 300px; padding: 30px 100px; display: flex; gap: 50px;}
-
-.half-width {width: 50%;}
-
 h2 {text-align: center; font-size: 30px;}
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px; 
+    padding: 20px;
+}
+
+.image {
+    width: 30%; 
+    height: auto;
+    border-radius: 8px; 
+}
+
+.Germany {}
 </style>
 
 </head>
@@ -48,15 +61,18 @@ h2 {text-align: center; font-size: 30px;}
     <div class="container">
        
     <div class="navigation">
-       <a class="menu-link" href="index.html">Home</a>
+       <a class="menu-link" href="Finanztips.html">Home</a>
        <a class="menu-link" href="" target="_blank">Kurse</a>
     </div>
     </div>
     <h1 class="headline">Willkommen bei <span class="Blue">Aktien</h1>
-    <h2>Was sind Aktien?</h2>
-        <div class="description-section">
-         <div class="half-width">
-         <p1>Die Aktie (englisch share) ist ein Wertpapier, das den Anteil an einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien verbrieft. Eine Aktie ist im Sinne des Wertpapierhandelsgesetzes und des Kreditwesengesetzes ein Finanzinstrument. </p1>
-         </div>
+    <h2>Kurse</h2>
+        
+    <div class="image-container">
+        <img class="Germany" src="Img/Ger.png" alt="Bild 1" class="image">
+        <img src="Img/Aus.png" alt="Bild 2" class="image">
+        <img src="Img/Swiss.png" alt="Bild 3" class="image">
+    </div>
+         
 </body>
 </html>
