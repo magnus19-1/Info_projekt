@@ -30,7 +30,7 @@ Software Entwickler /- Designer
 Webseite: https://schurig.tech
 
 
-Hier finden Sie nun noch ein paar Statistiken über das Projekt u.a. die Aktivität der Mitglieder. 
+Hier finden Sie nun noch ein paar Statistiken über das Projekt u.a. die Aktivität der Mitglieder (Mein Nickname ist Gamius00). 
 
      
 ![image](https://github.com/user-attachments/assets/1d1d41bc-bd26-4c03-afc1-7eadf0eef748)
