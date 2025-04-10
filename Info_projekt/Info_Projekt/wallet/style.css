@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    margin: 0px;
+
+}
+
+nav div{
+    display: flex;
+    justify-content: space-around;
+    width: 33%;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+nav a{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.content {
+    height: 95vh;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.test {
+    display: flex;
+    justify-content: center;
+}
+
+.login-button {
+    color: white;
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+    margin-top: 40px;
+    padding-right: 15px;
+    border-radius: 3px;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.pt-sans-regular {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .pt-sans-bold {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .pt-sans-regular-italic {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .pt-sans-bold-italic {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .head-text {
+    color: #5d5dd8;
+    font-size: large;
+    width: 30%;
+  }
+
+  .no-authorization-text {
+    visibility: hidden;
+  }
+
+  .head-text-with-image {
+    display: flex;
+    flex-direction: column;
+    color: #5d5dd8;
+    font-size: large;
+    width: 30%;
+
+  }
+
+  .error-text {
+    color: red; 
+  }
+
+  .success-content {
+    visibility: hidden;
+  }
+
+
+  .username-input {
+    margin-bottom: 15px;
+  }
+
+  .item {
+    display: flex;
+  }
+
+  .head-text-with-image img {
+    height: 25px;
+    width: 25px;
+    margin-right: 7px;
+  }
