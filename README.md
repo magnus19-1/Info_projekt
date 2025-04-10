@@ -16,7 +16,7 @@
 4. Beschreibung der Wallet Seite
 
    - Diese Seite soll die Vereinfachung eines Kontos bzw. einer digitalen Geldbörse darstellen.
-     Sie können Sie einloggen und werden auf eine Seite weotergeleitet (success.html).
+     Sie können Sie einloggen und werden auf eine Seite weitergeleitet (success.html).
      Mir ist durchaus bewusst, dass der Login nicht sicher ist, da die Daten auf den Client (Nutzer) geladen werden.
      Wenn man normalerweise einen Login baut, so werden die Passwörter im Backend z.B bei einem User Management System oder
      einer Datenbank verschlüsselt.
