@@ -8,7 +8,7 @@
    Da ich zu manchen Informatikstunden nicht in der Schule war, aufgrund einer Freistellung oder Krankheitsbedingt,
    verlor ich als Gruppenbeauftragter schnell den Überblick. So bat ich meine Gruppe am Anfang unseres Projektes,
    dass jeder der Mitglieder seinen Fortschritt der jeweiligen Stunde auf GitHub lädt, damit ich die Aktivität und
-   die arbeit der jeweiligen Mitglieder einsehen kann.
+   die Arbeit der jeweiligen Mitglieder einsehen kann.
    GitHub wird in der Technologie Welt zudem sehr gerne verwendet, da es sich unglaublich für Gruppenprojekte und
    die effiziente Arbeit eignet.  
 
@@ -20,6 +20,9 @@
      Wenn man normalerweise einen Login baut, so werden die Passwörter im Backend z.B bei einem User Management System oder
      einer Datenbank verschlüsselt.
      In diesem Beispiel werden die Daten im Frontend sowohl gespeichert als auch verglichen mit der Eingabe des Nutzers!
+
+
+Hier nun noch ein paar 
 
      
 ![image](https://github.com/user-attachments/assets/1d1d41bc-bd26-4c03-afc1-7eadf0eef748)
