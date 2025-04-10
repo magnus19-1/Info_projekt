@@ -22,3 +22,4 @@
      In diesem Beispiel werden die Daten im Frontend sowohl gespeichert als auch verglichen mit der Eingabe des Nutzers!
 
      
+![image](https://github.com/user-attachments/assets/1d1d41bc-bd26-4c03-afc1-7eadf0eef748)
