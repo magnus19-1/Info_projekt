@@ -22,6 +22,7 @@
      einer Datenbank verschlüsselt.
      In diesem Beispiel werden die Daten im Frontend sowohl gespeichert als auch verglichen mit der Eingabe des Nutzers!
 
+5. Um das Projekt herunterzuladen drücken Sie auf den Knopf Code </> und dann auf als Zip herunterladen!
 
 Mit freundlichen Grüßen 
 
