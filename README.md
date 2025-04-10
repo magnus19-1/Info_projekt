@@ -1,6 +1,7 @@
 **Beschreibung des Projektes**
 
 1. Die Idee für dieses Projekt basierte auf einer meiner privaten Projekte als deutlich vereinfachte Version.
+   Falls Sie interessiert sind, sich meine Privaten Projekte einmal anzusehen, hier finden Sie diese: https://github.com/Gamius00  
    Das Ziel war eine Seite, welche über Finanzen informiert aber gleichzeitig als Wallet (Geldbörse) dient.
 
 2. Die Umsetzung des Projektes verlief sehr gut, dennoch konnte ich im Unterricht nicht aktiv arbeiten, da ich
@@ -22,7 +23,7 @@
      In diesem Beispiel werden die Daten im Frontend sowohl gespeichert als auch verglichen mit der Eingabe des Nutzers!
 
 
-Hier nun noch ein paar 
+Hier finden Sie nun noch ein paar Statistiken über das Projekt. 
 
      
 ![image](https://github.com/user-attachments/assets/1d1d41bc-bd26-4c03-afc1-7eadf0eef748)
